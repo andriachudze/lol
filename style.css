@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+.p{
+    border:1px solid black;
+    border-radius: 10px;
+    padding:10px;
+}
+.img {
+    width: 150px;
+    height: 120px;
+    border-left: 10px dotted black;
+    padding-right:20px;
+}
+.hi{
+    width: 170px;
+    height: 120px;
+    border-left: 10px dotted black;
+    padding-right:20px;
+}
+.bruh{
+    width: 180px;
+    height: 120px;
+    border-left: 10px dotted black;
+    padding-right:20px;
+}
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+    font-size:50px;
+}
+    footer{
+        background-color:black;
+    }
+.hey{
+    background:white;
+    margin:30px 0px 0px 0px;
+}
+            
